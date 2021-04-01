@@ -12,7 +12,7 @@ enableEnvironment false;
 0 = execVM "add_med.sqf";
 
 /* ———————————————————— [ подключаем объекты  ] ———————————————————— */
-[] execVM "local.sqf";
+//[] execVM "local.sqf";
 
 /* ———————————————————— [ улучшаем рильеф гаризонта ] ———————————————————— */
 setTerrainGrid 2;
